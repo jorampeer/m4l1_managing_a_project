@@ -1,0 +1,20 @@
+    1  h
+    2  history
+    3  pwd
+    4  git status
+    5  git add .
+    6  diff class*.txt
+    7  rm class2.txt
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit -a -m commit
+   12  git config user.email "joram.peer@nuvoton.com"
+   13  git config user.name "Joram Peer"
+   14  git diff 
+   15  git status
+   16  git log
+   17  git diff 19398650f80f5c217629002a81016d4eb3f86b0e origin/main
+   18  git push
+   19  git push -u origin 
+   20  history > history 
